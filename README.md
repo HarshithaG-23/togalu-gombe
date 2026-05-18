@@ -1,2 +1,2 @@
 # togalu-gombe
-this project is based on the drama puppetts its based on karnataka regional region for enterntaionment purpose  
+A modern, feature rich Android application built using Kotlin and Android Jetpack components. This app demonstrates clean architecture, media handling, and scalable Android development.
